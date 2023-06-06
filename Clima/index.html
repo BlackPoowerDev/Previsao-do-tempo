@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/assets/css/style.css">
+    <title>Clima</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="wrapper">
+                <div class="input-group">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <input type="text" placeholder="Recife" id="search">
+                    <i class="fa-solid fa-magnifying-glass" id="buscar"></i>
+                </div>
+                <div class="group-info">
+                    <div class="info">
+                        <picture>
+                            <img src="./src/assets/img/clear.png" alt="404">
+                        </picture>
+                        <div class="info-clima">
+                            <p>ºC</p>
+                            <span class="temperatura"></span>
+                        </div>
+                        <span class="description"></span>
+                    </div>
+                    <div class="info-icon">
+                        <div class="info-wr">
+                            <i class="fa-solid fa-water"></i>
+                            <div class="info-text">
+                                <span class="humidity"></span>
+                                <span>Umidade</span>
+                            </div>
+                        </div>
+    
+                        <div class="info-wr">
+                            <i class="fa-solid fa-wind"></i>
+                            <div class="info-text">
+                                <span class="speed"></span>
+                                <span>Velocidade do vento</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <script src="./src/assets/js/action.js"></script>
+    <script src="https://kit.fontawesome.com/349cd453ad.js" crossorigin="anonymous"></script>
+</body>
+</html>
