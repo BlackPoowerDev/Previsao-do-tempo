@@ -1,4 +1,4 @@
-# :hammer: Funcionalidades do projeto
+# ☁️: Funcionalidades do projeto
 
 - `Funcionalidade 1`: descrição da funcionalidade 1
 - `Funcionalidade 2`: descrição da funcionalidade 2
