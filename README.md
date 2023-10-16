@@ -1,4 +1,6 @@
-# ☁️: Funcionalidades do projeto
+# ☁️ Verificar clima
+
+**Sistema simples para verificação do clima**
 
 - `Funcionalidade 1`: descrição da funcionalidade 1
 - `Funcionalidade 2`: descrição da funcionalidade 2
