@@ -1,6 +1,6 @@
-# ☁️ Verificar clima
+# ☁️ Previsão do tempo
 
-**Sistema simples para verificação do clima**
+**Sistema simples para previsão do tempo**
 
 # ✔️ Tecnologias utilizadas 
 
